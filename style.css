@@ -56,13 +56,14 @@ hr{
     box-sizing: content-box;
 }
 p{
-    width: 100%;
+    width: 96%;
     color: rgb(81, 81, 81);
-    font-size: 150%;
-    margin-right: 20px;
-    margin-left: 20px;
+    font-size: 125%;
+    margin-right: 2%;
+    margin-left: 2%;
 }
 .class2{
     width: 96%;
-    margin: 2%;
+    margin: 1%;
+
 }
